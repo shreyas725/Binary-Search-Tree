@@ -1,4 +1,4 @@
-******************************************************Binary-Search-Tree****************************************************************
+******************************************************Binary-Search-Tree*************************************************************
 
 The Binary Search Tree is constructed in the following order wherein it reads three lines from standard in.
 
